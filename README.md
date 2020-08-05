@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on so many different things! Primarily, a product brochure site in React and Tailwind. However, I love building things, and I love building new things even more, so I always have two, three or four side projects on the go as well. I'm still trying to find the perfect solution to manage all my bookmarks (web and Twitter) so I'm trying to build my ideal system. I love the concept behind Cacher, and it's design too. The fact that the free-plan only allowed three tags or keywords prompted me to start building my own version. I'm also convinced I can build a 'better Twitter' - so let's see! 🤣
+🔭 I’m currently working on so many different things! Primarily, a product brochure site in React and Tailwind. However, I love building things, and I love building new things even more, so I always have two, three or four side projects on the go as well. I'm still trying to find the perfect solution to manage all my bookmarks (web and Twitter) so I'm trying to build my ideal system. I love the concept behind Cacher, and it's design too. The fact that the free-plan only allowed three tags or keywords prompted me to start building my own version. I'm also convinced I can build a 'better Twitter' - so let's see! 🤣
+
+⚡ Fun fact: I once had the role of the main character in an Indonesian soap opera
 
 ## Commits
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
@@ -18,5 +20,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
