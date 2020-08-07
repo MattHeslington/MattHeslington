@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1>Hello, world!</h1>
+<h1>How do you do? | Salamat datang! 👋</h1>
 
 🔭 I’m currently working on so many different things! Primarily, a product brochure site in React and Tailwind. However, I love building things, and I love building new things even more, so I always have two, three or four side projects on the go as well. I'm still trying to find the perfect solution to manage all my bookmarks (web and Twitter) so I'm trying to build my ideal system. I love the concept behind Cacher, and it's design too. The fact that the free-plan only allowed three tags or keywords prompted me to start building my own version. I'm also convinced I can build a 'better Twitter' - so let's see! 🤣
 
