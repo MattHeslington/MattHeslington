@@ -1,6 +1,6 @@
-<h1>How do you do? | Salamat datang! 👋</h1>
+<h1>Hello. Thanks for visiting</h1>
 
-🔭 I’m currently working on so many different things! Primarily, a product brochure site in React and Tailwind. However, I love building things, and I love building new things even more, so I always have two, three or four side projects on the go as well. I'm still trying to find the perfect solution to manage all my bookmarks (web and Twitter) so I'm trying to build my ideal system. I love the concept behind Cacher, and it's design too. The fact that the free-plan only allowed three tags or keywords prompted me to start building my own version. I'm also convinced I can build a 'better Twitter' - so let's see! 🤣
+🔭 I’m a fullstack developer who adores working with React. When I'm not working on a project, I'm learing a new technique or skill (e.g. at the moment I'm learning FaunaDB as I've read it's a big improvement on Firebase) or playing with one of my two or three side-projects I usually have on the go as well. I'm currently working on a Desktop/Mobile journalling style app which curiously looks very similar to Facebook when in dark mode. After I've completed the mobile app I want to start working on an Airbnb clone, which at the moment I envisage building using NextJS with FaunaDB for the backend. I'm yet to find a snippets manager app I like, so building one of these is another side project.
 
 ⚡ Fun fact: I once had the role of the main character in an Indonesian soap opera
 
