@@ -4,11 +4,7 @@
 
 ⚡ Fun fact: I once had the role of the main character in an Indonesian soap opera
 
-## Commits
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]() [![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]()
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MattHeslington)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/MattHeslington?template=classic&isocalendar=1&languages=1&lines=1&pagespeed=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FMakassar)
 
 - 🌱 I’m currently learning FaunaDB
 - 💬 Let's chat about React and Tailwind
