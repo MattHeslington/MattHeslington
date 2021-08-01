@@ -4,8 +4,7 @@
 
 ⚡ Fun fact: I once had the role of the main character in an Indonesian soap opera
 
-![Metrics](https://metrics.lecoq.io/MattHeslington?template=classic&isocalendar=1&languages=1&lines=1&pagespeed=1&introduction=1&isocalendar.duration=half-year&languages.ignored=css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FMakassar)
-
+![Metrics](https://metrics.lecoq.io/MattHeslington?template=classic&isocalendar=1&languages=1&lines=1&pagespeed=1&introduction=1&isocalendar.duration=half-year&languages.ignored=css&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Asia%2FMakassar)
 
 - 🌱 I’m currently learning FaunaDB
 - 💬 Let's chat about React and Tailwind
